@@ -13,7 +13,6 @@ load_dotenv()
 api_key=os.getenv("OPENAI_API_KEY")
 
 # Configure all the parameters for setup of ChatOpenAI object
-endpoint = "https://models.inference.ai.azure.com"
 model_name = "gpt-4o-mini"
 
 llm = ChatOpenAI(api_key=api_key, model_name=model_name, temperature=0.8)
