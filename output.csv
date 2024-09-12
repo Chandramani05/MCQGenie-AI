@@ -1,6 +1,6 @@
 MCQ,Choices,Correct
-What fundamental architecture has significantly contributed to the advancements in Large Language Models (LLMs)?,a: Convolutional Neural Networks | b: Recurrent Neural Networks | c: Transformers | d: Support Vector Machines,c
-Which of the following techniques has been implemented to improve the efficiency of LLMs?,a: Data Augmentation | b: Parameter-Efficient Fine-Tuning | c: Feature Engineering | d: Rule-Based Systems,b
-What is a major challenge faced by LLMs when generating responses?,a: Inability to process language | b: Excessive training data requirements | c: Hallucinations leading to incorrect or misleading outputs | d: Lack of computational power,c
-Which model is known for its ability to perform well in zero-shot settings without fine-tuning?,a: T5 | b: GPT-3 | c: BERT | d: LLaMA,b
-What aspect of LLMs is critical for their deployment in real-time applications?,a: High memory bandwidth | b: Rapid context window adaptation | c: Low computational cost | d: All of the above,d
+What is a significant breakthrough that has enabled the creation of Large Language Models (LLMs)?,a: Development of recurrent neural networks | b: Introduction of transformers | c: Use of decision trees | d: Advancements in genetic algorithms,b
+Which of the following processes is essential in preparing text data for LLM training?,a: Tokenization | b: Normalization | c: Clustering | d: Feature scaling,a
+Which technique is commonly used to enhance the efficiency of fine-tuning LLMs?,a: Full model fine-tuning | b: Parameter-efficient fine-tuning | c: Transfer learning from scratch | d: Random sampling,b
+What is the primary purpose of alignment-tuning in LLMs?,a: To enhance performance on specific tasks | b: To improve model speed | c: To ensure models generate safe and appropriate outputs | d: To increase model parameters,c
+Which of the following is a challenge associated with Large Language Models?,a: Low computational requirements | b: High memorization capabilities | c: Difficulty in real-time processing | d: Limited understanding of languages,c

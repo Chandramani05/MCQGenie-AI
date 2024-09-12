@@ -36,7 +36,6 @@ This repository contains the code of an AI app, which is able to generate MCQs q
 
 👉 **Streamlined Interface**: Built with Streamlit, the app provides a user-friendly interface for easy navigation and interaction.
 
-👉 **Real-time Cost & Token Usage Monitoring**: Displays token usage and cost of the API call to OpenAI, ensuring transparency for users.
 
 ## <a name="tech-stack">Tech Stack 🛠️</a>
 
