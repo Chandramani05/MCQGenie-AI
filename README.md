@@ -15,10 +15,6 @@
 2. [Features](#features)
 3. [Tech Stack](#tech-stack)
 4. [Getting Started](#quick-start)
-5. [License](#license)
-6. [Contributing](#contributing)
-7. [Acknowledgements](#acknowledgements)
-8. [Contact](#contact)
 
 ## <a name="introduction">Introduction</a>
 
