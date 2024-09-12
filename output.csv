@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What fundamental architecture has significantly contributed to the advancements in Large Language Models (LLMs)?,a: Convolutional Neural Networks | b: Recurrent Neural Networks | c: Transformers | d: Support Vector Machines,c
+Which of the following techniques has been implemented to improve the efficiency of LLMs?,a: Data Augmentation | b: Parameter-Efficient Fine-Tuning | c: Feature Engineering | d: Rule-Based Systems,b
+What is a major challenge faced by LLMs when generating responses?,a: Inability to process language | b: Excessive training data requirements | c: Hallucinations leading to incorrect or misleading outputs | d: Lack of computational power,c
+Which model is known for its ability to perform well in zero-shot settings without fine-tuning?,a: T5 | b: GPT-3 | c: BERT | d: LLaMA,b
+What aspect of LLMs is critical for their deployment in real-time applications?,a: High memory bandwidth | b: Rapid context window adaptation | c: Low computational cost | d: All of the above,d

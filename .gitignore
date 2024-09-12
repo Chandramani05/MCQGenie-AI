@@ -1,0 +1,9 @@
+# Folders
+.venv
+experiment
+.__pycache__/
+*.py[cod]
+mcq
+
+# Files
+.env
