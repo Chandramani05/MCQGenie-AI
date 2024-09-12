@@ -56,7 +56,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Mubassim-Khan/QuizMaster-AI.git
+git clone https://github.com/Chandramani05/MCQGenie-AI.git
 ```
 
 2. Open the project in your preferred code editor.
@@ -64,13 +64,13 @@ git clone https://github.com/Mubassim-Khan/QuizMaster-AI.git
 3. Create a virtual environment of suitable python version using:
 
 ```bash
-conda create -p venv python=3.x -y`
+conda create -n venv python=3.12
 ```
 
 4. Activate environment using:
 
 ```bash
-`source activate ./venv` or `conda activate ./venv`
+`source activate venv` or `conda activate venv`
 ```
 
 5. Install the project dependencies using pip:
